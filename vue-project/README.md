@@ -1,5 +1,5 @@
 # vue-project
-
+element-plusのDatePickerでSuspenseを使い非同期で扱う。
 ## Project setup
 ```
 yarn install
